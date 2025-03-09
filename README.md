@@ -5,6 +5,8 @@
 <img src="./Images/Anttennas-Printed.png">
 
 Use 2 pieces of filament for the antennae themselves c:
+
+If the left hole isnt big enough DONT FORCE IT IN (i broke one already), use a small drill bit
 ____________________________________
 With love, from Suzuki
 
