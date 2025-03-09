@@ -2,6 +2,8 @@
 
 <img src="./Images/Anttennas.png">
 
+Use 2 pieces of filament for the antennae themselves c:
+____________________________________
 With love, from Suzuki
 
 UwU
